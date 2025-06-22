@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/MergePolygon" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

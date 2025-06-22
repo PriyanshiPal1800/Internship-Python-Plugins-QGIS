@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/ulpin_to_latlong" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
